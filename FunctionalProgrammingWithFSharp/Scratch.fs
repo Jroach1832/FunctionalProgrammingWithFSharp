@@ -26,3 +26,13 @@ let rec fact = function
 let c = fact 4
 
 printfn "%i" c
+
+(* Recursive power function *)
+
+let rec power = function
+    | (x, 0) -> 1.0
+    | (x, n) -> x * power (x, n - 1)
+
+let d = power (2, 8)
+
+printfn "%f" d
