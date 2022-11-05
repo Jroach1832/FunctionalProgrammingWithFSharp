@@ -5,6 +5,8 @@ VisualStudioVersion = 25.0.1703.2
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Scratch", "FunctionalProgrammingWithFSharp\Scratch.fsproj", "{A45E3B53-8A4F-4622-BAC7-7ED481268ED0}"
 EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Ch1P1", "Ch1P1\Ch1P1.fsproj", "{DA118775-65E2-42A7-B629-18B685557153}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{A45E3B53-8A4F-4622-BAC7-7ED481268ED0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A45E3B53-8A4F-4622-BAC7-7ED481268ED0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A45E3B53-8A4F-4622-BAC7-7ED481268ED0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA118775-65E2-42A7-B629-18B685557153}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA118775-65E2-42A7-B629-18B685557153}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA118775-65E2-42A7-B629-18B685557153}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA118775-65E2-42A7-B629-18B685557153}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
