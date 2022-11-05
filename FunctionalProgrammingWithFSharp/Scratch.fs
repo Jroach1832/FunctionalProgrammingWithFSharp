@@ -1,4 +1,6 @@
-﻿(* Area of a circle with radius r *)
+﻿module Scratch
+
+(* Area of a circle with radius r *)
 
 let circleArea r = System.Math.PI * r * r
 
@@ -36,3 +38,13 @@ let rec power = function
 let d = power (2, 8)
 
 printfn "%f" d
+
+(* Recursive gcd function *)
+
+let rec gcd = function
+    | (0, n) -> n
+    | (m, n) -> gcd(n % m, m)
+
+let e = gcd (36, 116)
+
+printfn "%i" e
