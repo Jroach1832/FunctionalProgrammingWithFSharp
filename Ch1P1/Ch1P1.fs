@@ -6,4 +6,4 @@ let g = function
 
 let h = g 5 
 
-printf "%i" h // Output: 9
+printf "%i" h // 9

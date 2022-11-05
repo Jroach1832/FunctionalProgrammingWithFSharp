@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <AssemblyName>Ch1P3</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="Ch1P4.fs" />
+  </ItemGroup>
+
+</Project>
