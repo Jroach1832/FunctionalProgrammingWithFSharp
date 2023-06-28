@@ -6,7 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Compile Include="Ch2P2.fs" />
+    <Compile Include="Ch2P4.fs" />
   </ItemGroup>
 
 </Project>
